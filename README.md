@@ -13,7 +13,7 @@ Here are the notebooks you might find interesting:
 
 ### Movie rating analysis using pyspark and Amazon Aws:
 
-[Here] (https://github.com/amnghd/A_Review_on_Pyspark/blob/master/Movierating/notebooks/Movie%20Rating%20Analysis%20(Pyspark%2C%20EMR).ipynb)
+[Here](https://github.com/amnghd/A_Review_on_Pyspark/blob/master/Movierating/notebooks/Movie%20Rating%20Analysis%20(Pyspark%2C%20EMR).ipynb)
 
 ### Whether analysis using pyspark:
 [Here](https://github.com/amnghd/A_Review_on_Pyspark/blob/master/Temperature%20data%20analysis/notebooks/Weather%20data%20analytic%20(Pyspark%2C%20AWS%20EMR).ipynb)
